@@ -30,7 +30,7 @@ on:
       EXTRA_TAG:
         description: "Extra tag"
         required: true
-        default: "no-models"
+        default: "-no_models"
 
 jobs:
   build:
