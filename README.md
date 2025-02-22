@@ -39,16 +39,6 @@
   - PyTorch 2.6.0
   - CUDA 12.4
 
-#### **Models**
-
-- **Checkpoint Model**:
-  - `ntrMIXIllustriousXL_v40.safetensors` - [Link](https://civitai.com/models/926443?modelVersionId=1061268)
-
-- **Upscale Models**:  
-  - `2x-AnimeSharpV4_RCAN.safetensors` - [Link](https://huggingface.co/Kim2091/2x-AnimeSharpV4)
-  - `2x-AnimeSharpV3.pth`  - [Link](https://huggingface.co/Kim2091/AnimeSharpV3)  
-  - `4x-AnimeSharp.pth`  - [Link](https://huggingface.co/Kim2091/AnimeSharp)  
-
 #### **Custom Nodes**  
 
 - `ComfyUI-Custom-Scripts` - [Link](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)  
